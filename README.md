@@ -16,7 +16,7 @@
 
 ### 📟Cooperation Tool📟
 
-<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 -----
 
@@ -28,7 +28,7 @@
 
 ### 📕Book Study📗
 
-<img src="https://img.shields.io/badge/웹을 지탱하는 기술-A5915F?style=flat-square&logo=&logoColor=white"/><img src="https://img.shields.io/badge/객체지향의 사실과 오해-A5915F?style=flat-square&logo=&logoColor=white"/><img src="https://img.shields.io/badge/모던 자바 인 액션-A5915F?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/웹을 지탱하는 기술-A5915F?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/객체지향의 사실과 오해-A5915F?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/모던 자바 인 액션-A5915F?style=flat-square&logo=&logoColor=white"/>
 
 -----  
 
