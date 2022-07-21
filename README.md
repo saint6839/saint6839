@@ -4,7 +4,7 @@
 
 ### 👋About Me🙌
 
-<h5 align="left"><link href="https://velog.io/@saint6839"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 스터디 블로그 <h5 align="left"><link href="https://velog.io/@saint6839"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> GitHub 저장소
+<h5 align="left"><a href="https://velog.io/@saint6839"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"> <h5 align="left"><a href="https://velog.io/@saint6839"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
 -----  
   
@@ -22,7 +22,7 @@
 
 ### 🧑‍💻Organization🧑‍💻
 
-<h5 align="left"><link href="https://econovation.kr/about"><img src="https://img.shields.io/badge/ECONOVATION-00205B?style=for-the-badge&logo=team&logoColor=white"> 전남대학교 IT 동아리 에코노베이션 <h5 align="left"><link href="https://github.com/sproutt"><img src="https://img.shields.io/badge/Sproutt-7ACB10?style=for-the-badge&logo=spring&logoColor=white"> 전남대학교 스프링 백엔드 스터디 새싹
+<h5 align="left"><a href="https://econovation.kr/about"><img src="https://img.shields.io/badge/ECONOVATION-00205B?style=for-the-badge&logo=team&logoColor=white"> <h5 align="left"><a href="https://github.com/sproutt"><img src="https://img.shields.io/badge/Sproutt-7ACB10?style=for-the-badge&logo=spring&logoColor=white">
 
 -----  
 
