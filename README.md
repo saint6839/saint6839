@@ -1,5 +1,3 @@
------
-
 ### 👋About Me🙌
 
 <h5 align="left"><a href="https://velog.io/@saint6839"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"> <h5 align="left"><a href="https://github.com/saint6839"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
